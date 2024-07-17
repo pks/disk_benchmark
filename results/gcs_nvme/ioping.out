@@ -1,0 +1,305 @@
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=1 time=79.7 us (warmup)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=2 time=329.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=3 time=258.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=4 time=265.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=5 time=300.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=6 time=326.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=7 time=254.4 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=8 time=277.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=9 time=265.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=10 time=272.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=11 time=297.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=12 time=315.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=13 time=266.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=14 time=261.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=15 time=256.2 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=16 time=332.2 us (slow)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=17 time=269.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=18 time=313.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=19 time=266.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=20 time=338.6 us (slow)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=21 time=264.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=22 time=254.2 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=23 time=257.1 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=24 time=292.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=25 time=254.0 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=26 time=275.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=27 time=288.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=28 time=284.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=29 time=263.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=30 time=300.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=31 time=264.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=32 time=266.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=33 time=268.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=34 time=279.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=35 time=272.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=36 time=288.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=37 time=245.9 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=38 time=247.8 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=39 time=250.2 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=40 time=264.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=41 time=267.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=42 time=299.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=43 time=341.3 us (slow)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=44 time=269.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=45 time=273.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=46 time=352.8 us (slow)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=47 time=247.3 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=48 time=291.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=49 time=276.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=50 time=247.3 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=51 time=305.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=52 time=281.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=53 time=318.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=54 time=310.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=55 time=263.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=56 time=257.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=57 time=286.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=58 time=247.6 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=59 time=321.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=60 time=277.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=61 time=263.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=62 time=256.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=63 time=259.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=64 time=288.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=65 time=256.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=66 time=308.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=67 time=260.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=68 time=246.4 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=69 time=256.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=70 time=266.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=71 time=289.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=72 time=303.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=73 time=258.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=74 time=261.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=75 time=257.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=76 time=269.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=77 time=312.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=78 time=265.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=79 time=244.3 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=80 time=252.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=81 time=259.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=82 time=254.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=83 time=294.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=84 time=276.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=85 time=242.3 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=86 time=252.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=87 time=260.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=88 time=249.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=89 time=264.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=90 time=321.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=91 time=280.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=92 time=255.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=93 time=380.1 us (slow)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=94 time=262.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=95 time=259.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=96 time=289.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=97 time=254.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=98 time=266.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=99 time=253.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=100 time=265.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=101 time=446.1 us (slow)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=102 time=297.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=103 time=266.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=104 time=275.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=105 time=273.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=106 time=324.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=107 time=251.0 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=108 time=283.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=109 time=259.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=110 time=280.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=111 time=255.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=112 time=241.4 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=113 time=287.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=114 time=287.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=115 time=278.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=116 time=256.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=117 time=280.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=118 time=263.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=119 time=256.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=120 time=285.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=121 time=245.3 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=122 time=325.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=123 time=260.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=124 time=256.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=125 time=262.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=126 time=272.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=127 time=243.7 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=128 time=250.4 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=129 time=243.0 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=130 time=251.2 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=131 time=351.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=132 time=362.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=133 time=263.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=134 time=390.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=135 time=249.9 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=136 time=249.9 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=137 time=285.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=138 time=250.3 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=139 time=260.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=140 time=272.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=141 time=269.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=142 time=266.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=143 time=324.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=144 time=270.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=145 time=276.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=146 time=253.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=147 time=303.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=148 time=287.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=149 time=304.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=150 time=284.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=151 time=252.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=152 time=247.0 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=153 time=270.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=154 time=253.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=155 time=296.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=156 time=280.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=157 time=307.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=158 time=276.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=159 time=279.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=160 time=326.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=161 time=301.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=162 time=349.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=163 time=243.1 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=164 time=391.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=165 time=271.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=166 time=253.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=167 time=270.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=168 time=234.2 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=169 time=241.9 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=170 time=286.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=171 time=246.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=172 time=259.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=173 time=303.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=174 time=256.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=175 time=265.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=176 time=239.6 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=177 time=252 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=178 time=257.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=179 time=276.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=180 time=254 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=181 time=275.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=182 time=254.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=183 time=252.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=184 time=261.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=185 time=343.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=186 time=235.6 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=187 time=283.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=188 time=257.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=189 time=289.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=190 time=279.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=191 time=290.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=192 time=254.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=193 time=261.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=194 time=296.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=195 time=324.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=196 time=282.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=197 time=277.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=198 time=261.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=199 time=245.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=200 time=286.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=201 time=258.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=202 time=248.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=203 time=300.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=204 time=248.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=205 time=243.9 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=206 time=255.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=207 time=262.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=208 time=270.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=209 time=313.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=210 time=248.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=211 time=257.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=212 time=269.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=213 time=262.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=214 time=243.1 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=215 time=291.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=216 time=261.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=217 time=251.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=218 time=253.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=219 time=271.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=220 time=265.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=221 time=315.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=222 time=258.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=223 time=273.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=224 time=267.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=225 time=287.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=226 time=308.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=227 time=308.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=228 time=251.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=229 time=241.1 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=230 time=271.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=231 time=254.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=232 time=252.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=233 time=315.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=234 time=261.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=235 time=252.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=236 time=329.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=237 time=310.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=238 time=254.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=239 time=275.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=240 time=276.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=241 time=243.8 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=242 time=249.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=243 time=251.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=244 time=247.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=245 time=330.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=246 time=248.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=247 time=244.8 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=248 time=288.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=249 time=303.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=250 time=285.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=251 time=298.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=252 time=249.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=253 time=246.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=254 time=246.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=255 time=255.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=256 time=299.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=257 time=323.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=258 time=279.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=259 time=247.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=260 time=255.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=261 time=238.2 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=262 time=264.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=263 time=363.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=264 time=270.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=265 time=254.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=266 time=278.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=267 time=304.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=268 time=253.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=269 time=308.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=270 time=260.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=271 time=257.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=272 time=265.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=273 time=264.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=274 time=279.0 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=275 time=294.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=276 time=285.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=277 time=249.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=278 time=288.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=279 time=257.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=280 time=326.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=281 time=300.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=282 time=269.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=283 time=292.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=284 time=296.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=285 time=272.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=286 time=270.4 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=287 time=339.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=288 time=319.2 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=289 time=258.7 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=290 time=343.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=291 time=266.9 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=292 time=275.3 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=293 time=299.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=294 time=267.1 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=295 time=239.9 us (fast)
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=296 time=298.5 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=297 time=261.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=298 time=315.6 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=299 time=398.8 us
+4 KiB <<< . (xfs /dev/nvme0n1 374.8 GiB): request=300 time=263.6 us
+
+--- . (xfs /dev/nvme0n1 374.8 GiB) ioping statistics ---
+299 requests completed in 82.9 ms, 1.17 MiB read, 3.61 k iops, 14.1 MiB/s
+generated 300 requests in 4.98 min, 1.17 MiB, 1 iops, 4.01 KiB/s
+min/avg/max/mdev = 234.2 us / 277.1 us / 446.1 us / 30.9 us

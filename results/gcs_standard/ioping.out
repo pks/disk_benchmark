@@ -1,0 +1,305 @@
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=1 time=8.18 ms (warmup)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=2 time=7.06 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=3 time=1.16 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=4 time=868.9 us
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=5 time=712.3 us
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=6 time=801.9 us
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=7 time=716.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=8 time=920.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=9 time=807.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=10 time=712.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=11 time=920.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=12 time=907.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=13 time=883.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=14 time=826.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=15 time=42.2 ms (slow)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=16 time=1.91 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=17 time=724.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=18 time=795.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=19 time=17.0 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=20 time=899.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=21 time=823.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=22 time=34.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=23 time=768.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=24 time=715.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=25 time=870.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=26 time=15.6 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=27 time=40.8 ms (slow)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=28 time=15.6 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=29 time=770.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=30 time=927.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=31 time=867.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=32 time=828.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=33 time=791.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=34 time=840.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=35 time=838.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=36 time=914.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=37 time=837.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=38 time=798.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=39 time=841.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=40 time=43.0 ms (slow)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=41 time=990.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=42 time=734.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=43 time=866.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=44 time=827.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=45 time=885.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=46 time=24.2 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=47 time=809.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=48 time=1.33 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=49 time=819.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=50 time=837.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=51 time=799.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=52 time=880.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=53 time=749.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=54 time=946.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=55 time=822.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=56 time=763.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=57 time=7.21 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=58 time=800.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=59 time=16.9 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=60 time=807.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=61 time=885.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=62 time=927.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=63 time=17.7 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=64 time=7.29 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=65 time=35.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=66 time=16.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=67 time=26.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=68 time=34.4 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=69 time=813.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=70 time=18.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=71 time=52.7 ms (slow)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=72 time=2.22 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=73 time=832.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=74 time=960.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=75 time=719.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=76 time=834.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=77 time=977.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=78 time=916.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=79 time=1.15 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=80 time=1.14 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=81 time=862.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=82 time=17.1 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=83 time=852.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=84 time=961.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=85 time=824.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=86 time=18.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=87 time=24.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=88 time=14.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=89 time=1.98 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=90 time=7.11 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=91 time=831.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=92 time=935.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=93 time=896.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=94 time=8.23 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=95 time=23.6 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=96 time=744.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=97 time=838.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=98 time=45.1 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=99 time=860.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=100 time=834.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=101 time=770.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=102 time=876.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=103 time=1.27 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=104 time=834.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=105 time=8.81 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=106 time=844.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=107 time=982.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=108 time=899.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=109 time=31.4 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=110 time=845.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=111 time=945.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=112 time=38.4 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=113 time=811.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=114 time=15.9 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=115 time=979.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=116 time=1.70 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=117 time=17.0 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=118 time=7.98 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=119 time=943.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=120 time=8.35 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=121 time=35.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=122 time=799.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=123 time=9.54 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=124 time=35.9 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=125 time=746.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=126 time=8.20 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=127 time=1.18 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=128 time=15.1 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=129 time=15.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=130 time=1.28 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=131 time=851.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=132 time=907.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=133 time=805.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=134 time=1.20 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=135 time=8.25 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=136 time=797.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=137 time=1.43 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=138 time=756.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=139 time=16.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=140 time=851.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=141 time=880.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=142 time=10.6 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=143 time=9.11 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=144 time=1.70 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=145 time=9.99 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=146 time=840.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=147 time=17.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=148 time=40.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=149 time=826.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=150 time=1.03 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=151 time=900.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=152 time=27.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=153 time=951.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=154 time=928.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=155 time=8.25 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=156 time=1.01 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=157 time=8.69 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=158 time=977.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=159 time=798.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=160 time=881.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=161 time=959.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=162 time=10.7 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=163 time=26.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=164 time=1.37 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=165 time=768.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=166 time=36.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=167 time=816.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=168 time=831.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=169 time=752.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=170 time=785.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=171 time=739.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=172 time=780.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=173 time=812.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=174 time=7.64 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=175 time=841.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=176 time=17.4 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=177 time=779.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=178 time=43.2 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=179 time=7.15 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=180 time=882.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=181 time=870.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=182 time=861.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=183 time=19.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=184 time=943.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=185 time=10.4 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=186 time=1.42 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=187 time=758.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=188 time=1.25 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=189 time=958.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=190 time=20.0 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=191 time=929.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=192 time=922.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=193 time=14.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=194 time=956.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=195 time=9.26 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=196 time=797.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=197 time=794.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=198 time=17.4 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=199 time=752.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=200 time=2.70 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=201 time=943.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=202 time=795.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=203 time=972.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=204 time=844.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=205 time=779.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=206 time=910.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=207 time=910.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=208 time=1.22 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=209 time=30.9 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=210 time=888.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=211 time=6.02 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=212 time=10.4 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=213 time=14.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=214 time=994.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=215 time=11.9 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=216 time=781.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=217 time=9.68 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=218 time=955.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=219 time=778.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=220 time=10.9 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=221 time=810.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=222 time=840.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=223 time=685.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=224 time=797.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=225 time=735.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=226 time=804.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=227 time=795 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=228 time=9.55 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=229 time=19.1 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=230 time=823.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=231 time=1.47 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=232 time=20.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=233 time=1.40 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=234 time=835.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=235 time=836.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=236 time=755.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=237 time=14.9 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=238 time=752.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=239 time=749.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=240 time=739.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=241 time=882.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=242 time=749.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=243 time=898.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=244 time=1.17 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=245 time=678.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=246 time=778.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=247 time=713.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=248 time=768.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=249 time=26.7 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=250 time=26.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=251 time=28.7 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=252 time=19.9 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=253 time=867.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=254 time=20.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=255 time=852.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=256 time=12.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=257 time=43.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=258 time=900.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=259 time=11.5 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=260 time=776.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=261 time=776.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=262 time=769.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=263 time=11.4 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=264 time=721.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=265 time=40.2 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=266 time=894.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=267 time=1.03 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=268 time=790.6 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=269 time=833.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=270 time=833.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=271 time=928.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=272 time=900.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=273 time=11.6 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=274 time=768.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=275 time=757.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=276 time=1.25 ms (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=277 time=808.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=278 time=764.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=279 time=21.7 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=280 time=827.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=281 time=10.3 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=282 time=777.3 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=283 time=823.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=284 time=27.2 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=285 time=770.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=286 time=686.8 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=287 time=900.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=288 time=956.7 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=289 time=686.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=290 time=15.7 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=291 time=748.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=292 time=920.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=293 time=759.1 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=294 time=798.0 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=295 time=842.5 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=296 time=20.8 ms
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=297 time=761.9 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=298 time=885.2 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=299 time=754.4 us (fast)
+4 KiB <<< . (xfs /dev/sdb 100.0 GiB): request=300 time=901.7 us (fast)
+
+--- . (xfs /dev/sdb 100.0 GiB) ioping statistics ---
+299 requests completed in 1.97 s, 1.17 MiB read, 151 iops, 605.8 KiB/s
+generated 300 requests in 4.98 min, 1.17 MiB, 1 iops, 4.01 KiB/s
+min/avg/max/mdev = 678.4 us / 6.60 ms / 52.7 ms / 10.7 ms
